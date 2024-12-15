@@ -1,0 +1,14 @@
+@url = http://localhost:3025/
+@apiUrl = http://localhost:3025/api/v1
+
+###
+GET {{apiUrl}}/menu/
+
+
+###
+GET {{apiUrl}}/events/
+
+###
+GET http://localhost:3025/api/v1/menu/
+
+
