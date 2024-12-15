@@ -6,7 +6,7 @@ GET {{apiUrl}}/menu/
 
 
 ###
-GET {{apiUrl}}/events/
+GET {{apiUrl}}/events/2
 
 ###
 GET http://localhost:3025/api/v1/menu/
